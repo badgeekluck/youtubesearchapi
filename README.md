@@ -1,5 +1,7 @@
 # youtube-search-app
 
+you need to take a youtube api key from https://console.developers.google.com/
+
 ## Project setup
 ```
 npm install
